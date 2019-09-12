@@ -1,4 +1,4 @@
-# What I Learned In Week 0 at Code Immersives
+# What I Learned In Week 1 at Code Immersives
 
 ### Introduction
 
