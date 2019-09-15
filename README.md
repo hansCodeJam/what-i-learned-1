@@ -1,5 +1,6 @@
 # What I Learned In Week 1 at Code Immersives
 
+sdf
 ### Introduction
 
 You're going to use this repository to document what you learned in Week 1. This won't be a simple list, though--you're going to have to dive a little deeper and explain each concept to a layperson. Specifically, you'll explain the concept to yourself from the previous week!
