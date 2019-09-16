@@ -48,6 +48,10 @@
     /*css*/    
     ```
 
+Other things i learned:
+- Flowcharts
+- Logical thinking and puzzle games
+  
 
 
     
